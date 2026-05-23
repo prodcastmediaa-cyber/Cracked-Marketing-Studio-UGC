@@ -1,0 +1,8 @@
+config.py
+outputs/
+bot.log
+.bot.pid
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
