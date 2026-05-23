@@ -141,7 +141,7 @@ def run_higgsfield(script: str, scene_id: str, duration: int) -> str:
             "--avatars",        avatars,
             "--mode",           "ugc",
             "--setting_id",     scene_id,
-            "--generate_audio", "true",
+            "--generate_audio", "false",
             "--resolution",     "720p",
             "--json",
         ],
